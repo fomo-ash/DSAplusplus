@@ -9,7 +9,7 @@ This repository tracks my progress, primarily based on **Striver’s SDE Sheet**
 
 ## 🎯 Goal
 Master DSA in C++ for coding interviews, placements, and competitive programming by:
-- Completing **Striver’s SDE Sheet**
+- Completing **Striver’s Sheet**
 - Practicing problems regularly
 - Participating in contests
 - Learning advanced concepts beyond the sheet
