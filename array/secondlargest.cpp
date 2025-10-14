@@ -20,6 +20,26 @@ int secondLargest(int arr[]){
     return secondlargest;
 }
 
+int secondSmallest(int arr[]){
+
+ 
+    int smallest=arr[0];
+    int secondsmallest=INT_MAX;
+    for( int i=0; i<6; i++){
+    if(arr[i]<smallest){
+        secondsmallest=smallest;
+        smallest=arr[i];
+    }
+
+    else if(smallest>arr[i] && arr[i]<secondsmallest){
+        secondsmallest=arr[i];
+    }
+
+    
+}
+ 
+return secondsmallest;
+}
 int main(){
    
    
@@ -28,4 +48,5 @@ int main(){
     
 
     cout<< "Second Largest is"<<secondLargest(arr);
+     cout<< "Second Smallest is"<<secondSmallest(arr);
 }
