@@ -11,7 +11,7 @@ void merge(int arr[], int low, int mid, int high){
 
   }
   for(int j=0; j<n2;j++){
-    h[j]=arr[mid+1+j];
+    h[j]=arr[mid+1+j]; 
   }
 
   int i=0, j=0, k= low;
