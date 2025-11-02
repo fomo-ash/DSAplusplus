@@ -7,7 +7,7 @@ int secondLargest(int arr[]){
     int largest= arr[0];
     int secondlargest= INT_MIN;
 
-    for(int i=0; i<6; i++){
+    for(int i=0; i<6;  i++){
         if(arr[i]>largest ){
             secondlargest=largest;
             largest=arr[i];
