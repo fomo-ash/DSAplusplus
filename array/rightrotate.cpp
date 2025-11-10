@@ -1,21 +1,23 @@
 #include <iostream>
 using namespace std;
 
-void left(int arr[], int n,  int d) {
+void left(int arr[], int n) {
    
-    reverse(arr, arr+d);
-    reverse(arr+d, arr+n);
-    reverse(arr,arr+n);
+    int last=arr[n-1];
+    
+ for(int i=n-2; i>=0; i--){
+    arr[i+1]=arr[i];
+ }
 
+  arr[0]=last;
 
     
 }
 
 int main() {
     int arr[6] = {2,3,4,5,2,6};
-    int d=3;
  
-    left(arr, 6, d);
+    left(arr, 6);
     
     for(int i=0; i<6; i++){
         cout<<arr[i];
