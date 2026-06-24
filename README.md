@@ -156,6 +156,7 @@ Progress tracker through each topic group:
 ## Array
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/fomo-ash/DSAplusplus/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/fomo-ash/DSAplusplus/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -164,5 +165,14 @@ Progress tracker through each topic group:
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/fomo-ash/DSAplusplus/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/fomo-ash/DSAplusplus/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/fomo-ash/DSAplusplus/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/fomo-ash/DSAplusplus/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
