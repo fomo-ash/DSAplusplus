@@ -160,11 +160,13 @@ Progress tracker through each topic group:
 | [0713-subarray-product-less-than-k](https://github.com/fomo-ash/DSAplusplus/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/fomo-ash/DSAplusplus/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/fomo-ash/DSAplusplus/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/fomo-ash/DSAplusplus/tree/master/1248-count-number-of-nice-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/fomo-ash/DSAplusplus/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/fomo-ash/DSAplusplus/tree/master/0904-fruit-into-baskets) |
+| [1248-count-number-of-nice-subarrays](https://github.com/fomo-ash/DSAplusplus/tree/master/1248-count-number-of-nice-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/fomo-ash/DSAplusplus/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -173,6 +175,7 @@ Progress tracker through each topic group:
 | [0713-subarray-product-less-than-k](https://github.com/fomo-ash/DSAplusplus/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/fomo-ash/DSAplusplus/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/fomo-ash/DSAplusplus/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/fomo-ash/DSAplusplus/tree/master/1248-count-number-of-nice-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/fomo-ash/DSAplusplus/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
@@ -186,4 +189,9 @@ Progress tracker through each topic group:
 | [0209-minimum-size-subarray-sum](https://github.com/fomo-ash/DSAplusplus/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/fomo-ash/DSAplusplus/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/fomo-ash/DSAplusplus/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/fomo-ash/DSAplusplus/tree/master/1248-count-number-of-nice-subarrays) |
+## Math
+|  |
+| ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/fomo-ash/DSAplusplus/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
