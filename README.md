@@ -158,6 +158,7 @@ Progress tracker through each topic group:
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/fomo-ash/DSAplusplus/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/fomo-ash/DSAplusplus/tree/master/0713-subarray-product-less-than-k) |
+| [0860-lemonade-change](https://github.com/fomo-ash/DSAplusplus/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/fomo-ash/DSAplusplus/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/fomo-ash/DSAplusplus/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/fomo-ash/DSAplusplus/tree/master/1248-count-number-of-nice-subarrays) |
@@ -197,4 +198,8 @@ Progress tracker through each topic group:
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/fomo-ash/DSAplusplus/tree/master/1248-count-number-of-nice-subarrays) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/fomo-ash/DSAplusplus/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
