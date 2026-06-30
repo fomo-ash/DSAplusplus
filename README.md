@@ -165,6 +165,7 @@ Progress tracker through each topic group:
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/fomo-ash/DSAplusplus/tree/master/0209-minimum-size-subarray-sum) |
+| [0496-next-greater-element-i](https://github.com/fomo-ash/DSAplusplus/tree/master/0496-next-greater-element-i) |
 | [0713-subarray-product-less-than-k](https://github.com/fomo-ash/DSAplusplus/tree/master/0713-subarray-product-less-than-k) |
 | [0860-lemonade-change](https://github.com/fomo-ash/DSAplusplus/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/fomo-ash/DSAplusplus/tree/master/0904-fruit-into-baskets) |
@@ -175,6 +176,7 @@ Progress tracker through each topic group:
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/fomo-ash/DSAplusplus/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/fomo-ash/DSAplusplus/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/fomo-ash/DSAplusplus/tree/master/1248-count-number-of-nice-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/fomo-ash/DSAplusplus/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -217,6 +219,7 @@ Progress tracker through each topic group:
 | [0155-min-stack](https://github.com/fomo-ash/DSAplusplus/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/fomo-ash/DSAplusplus/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/fomo-ash/DSAplusplus/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/fomo-ash/DSAplusplus/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -232,4 +235,8 @@ Progress tracker through each topic group:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/fomo-ash/DSAplusplus/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/fomo-ash/DSAplusplus/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
