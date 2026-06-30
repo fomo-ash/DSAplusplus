@@ -1,30 +1,29 @@
 class MinStack {
 public:
-    stack<int>st,st2;
+    stack<pair<int,int>>st;
     MinStack() {
-        
     }
     
     void push(int value) {
-        st.push(value);
-        if(st2.empty() || value<=st2.top()){
-            st2.push(value);
+        if(st.empty()){
+            st.push({value,value});
+        }
+        else{
+            st.push({value, min(value, st.top().second)});
         }
     }
     
     void pop() {
-        if(st.top()==st2.top()){ //we need to compare here because think of a case where we have the min stack and normal stack at same size we need to remove the top
-            st2.pop();
-        }
+        
         st.pop();
     }
     
     int top() {
-       return st.top();
+        return st.top().first;
     }
     
     int getMin() {
-        return st2.top();
+        return st.top().second;
     }
 };
 
