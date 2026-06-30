@@ -213,6 +213,7 @@ Progress tracker through each topic group:
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/fomo-ash/DSAplusplus/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/fomo-ash/DSAplusplus/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/fomo-ash/DSAplusplus/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -225,4 +226,8 @@ Progress tracker through each topic group:
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/fomo-ash/DSAplusplus/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/fomo-ash/DSAplusplus/tree/master/0232-implement-queue-using-stacks) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/fomo-ash/DSAplusplus/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
