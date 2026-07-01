@@ -164,6 +164,7 @@ Progress tracker through each topic group:
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/fomo-ash/DSAplusplus/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/fomo-ash/DSAplusplus/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/fomo-ash/DSAplusplus/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/fomo-ash/DSAplusplus/tree/master/0503-next-greater-element-ii) |
@@ -242,4 +243,8 @@ Progress tracker through each topic group:
 | ------- |
 | [0496-next-greater-element-i](https://github.com/fomo-ash/DSAplusplus/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/fomo-ash/DSAplusplus/tree/master/0503-next-greater-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/fomo-ash/DSAplusplus/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
