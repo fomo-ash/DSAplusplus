@@ -171,6 +171,7 @@ Progress tracker through each topic group:
 | [0713-subarray-product-less-than-k](https://github.com/fomo-ash/DSAplusplus/tree/master/0713-subarray-product-less-than-k) |
 | [0860-lemonade-change](https://github.com/fomo-ash/DSAplusplus/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/fomo-ash/DSAplusplus/tree/master/0904-fruit-into-baskets) |
+| [0907-sum-of-subarray-minimums](https://github.com/fomo-ash/DSAplusplus/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/fomo-ash/DSAplusplus/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/fomo-ash/DSAplusplus/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/fomo-ash/DSAplusplus/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -223,6 +224,7 @@ Progress tracker through each topic group:
 | [0232-implement-queue-using-stacks](https://github.com/fomo-ash/DSAplusplus/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/fomo-ash/DSAplusplus/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/fomo-ash/DSAplusplus/tree/master/0503-next-greater-element-ii) |
+| [0907-sum-of-subarray-minimums](https://github.com/fomo-ash/DSAplusplus/tree/master/0907-sum-of-subarray-minimums) |
 ## Design
 |  |
 | ------- |
@@ -243,8 +245,10 @@ Progress tracker through each topic group:
 | ------- |
 | [0496-next-greater-element-i](https://github.com/fomo-ash/DSAplusplus/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/fomo-ash/DSAplusplus/tree/master/0503-next-greater-element-ii) |
+| [0907-sum-of-subarray-minimums](https://github.com/fomo-ash/DSAplusplus/tree/master/0907-sum-of-subarray-minimums) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/fomo-ash/DSAplusplus/tree/master/0152-maximum-product-subarray) |
+| [0907-sum-of-subarray-minimums](https://github.com/fomo-ash/DSAplusplus/tree/master/0907-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
