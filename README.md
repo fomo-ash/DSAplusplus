@@ -175,6 +175,7 @@ Progress tracker through each topic group:
 | [1004-max-consecutive-ones-iii](https://github.com/fomo-ash/DSAplusplus/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/fomo-ash/DSAplusplus/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/fomo-ash/DSAplusplus/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2104-sum-of-subarray-ranges](https://github.com/fomo-ash/DSAplusplus/tree/master/2104-sum-of-subarray-ranges) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/fomo-ash/DSAplusplus/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -225,6 +226,7 @@ Progress tracker through each topic group:
 | [0496-next-greater-element-i](https://github.com/fomo-ash/DSAplusplus/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/fomo-ash/DSAplusplus/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/fomo-ash/DSAplusplus/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/fomo-ash/DSAplusplus/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -246,6 +248,7 @@ Progress tracker through each topic group:
 | [0496-next-greater-element-i](https://github.com/fomo-ash/DSAplusplus/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/fomo-ash/DSAplusplus/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/fomo-ash/DSAplusplus/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/fomo-ash/DSAplusplus/tree/master/2104-sum-of-subarray-ranges) |
 ## Dynamic Programming
 |  |
 | ------- |
